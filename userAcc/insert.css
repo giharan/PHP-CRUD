@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    margin: 100px;
+    
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: 2px solid green;
+    width: 550px;
+    height: auto;
+}
+label{
+    font-size: 25px;
+    padding: 10px;
+}
+input{
+    width: 94%;
+    height: 25px;
+    padding: 5px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20;
+}
+button{
+    margin-left: 42%;
+    
+    padding: 8px;
+    background-color: white;
+    border: 2px solid green;
+    cursor: pointer;
+    font-size: 15px;
+    text-transform: uppercase;
+}
